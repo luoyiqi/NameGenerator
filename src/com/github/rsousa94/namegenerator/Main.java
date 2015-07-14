@@ -1,5 +1,7 @@
 package com.github.rsousa94.namegenerator;
 
+import com.github.rsousa94.namegenerator.utils.Names;
+
 public class Main {
 
     public static void main(String[] args) {

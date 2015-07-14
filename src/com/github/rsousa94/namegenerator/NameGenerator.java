@@ -77,7 +77,6 @@ public class NameGenerator {
      *
      * @param language the language to be set
      * @return true if language was changed successfully, false otherwise
-     * @throws IOException if it can't read the names
      */
     public boolean setLanguage(int language) {
         if (language < ARABIC || language > SPANISH)
